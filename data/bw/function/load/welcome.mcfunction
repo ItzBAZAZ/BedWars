@@ -1,0 +1,2 @@
+/tellraw @a ["",{"text":"Welcome to ","bold":true,"color":"dark_red"},{"text":"BedWars Datapack ","bold":true,"italic":true,"color":"dark_red"},{"text":"by ","bold":true,"color":"dark_red"},{"text":"BAZAZGMD","bold":true,"italic":true,"color":"dark_red"},{"text":"\n"},{"text":"[About the Datapack]","bold":true,"color":"dark_green","hoverEvent":{"action":"show_text","contents":"This datapack is made for BedWars players, because they are playing 1.8 and not 1.21.11."}},{"text":"\n"},{"text":"(c) BAZAZ13, 2026","color":"dark_blue"}]
+return 1
